@@ -139,3 +139,7 @@ models/
 *.h5
 *.pkl
 *.pth
+
+
+
+app/export.pkl
