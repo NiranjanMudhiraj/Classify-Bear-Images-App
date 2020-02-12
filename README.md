@@ -6,5 +6,5 @@ Select images of teddy bears, black bears, grizzly bears
 
     Output: grizzly
 
-App url: https://niranjannakkala.onrender.com/
+App url: https://niranjannakkala.onrender.com
 
